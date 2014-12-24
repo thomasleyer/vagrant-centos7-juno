@@ -1,1 +1,1 @@
-Centos 7 Vagrant box with Openstack Juno installed with Packstack.
+Centos 7 Vagrant box with Openstack Juno.
