@@ -19,5 +19,4 @@ packstack --answer-file packstack-aio
 sudo source /root/keystonerc_demo
 nova keypair-add demokey > demokey.pem
 chmod 600 demokey.pem
-sudo cat /root/keystonerc_demo|grep PASSWORD
 echo -e "Enjoy with Openstack !\n"
